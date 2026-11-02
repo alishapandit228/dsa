@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/alishapandit228/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/alishapandit228/dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/alishapandit228/dsa/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/alishapandit228/dsa/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/alishapandit228/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/alishapandit228/dsa/tree/master/0485-max-consecutive-ones) |
 | [3886-sum-of-sortable-integers](https://github.com/alishapandit228/dsa/tree/master/3886-sum-of-sortable-integers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/alishapandit228/dsa/tree/master/0066-plus-one) |
 | [3886-sum-of-sortable-integers](https://github.com/alishapandit228/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
