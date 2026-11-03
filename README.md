@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alishapandit228/dsa/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/alishapandit228/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/alishapandit228/dsa/tree/master/0485-max-consecutive-ones) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alishapandit228/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/alishapandit228/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/alishapandit228/dsa/tree/master/0066-plus-one) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alishapandit228/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/alishapandit228/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
